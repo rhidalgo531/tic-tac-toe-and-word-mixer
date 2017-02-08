@@ -1,0 +1,13 @@
+{
+  "name": "ait-homework-01",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
